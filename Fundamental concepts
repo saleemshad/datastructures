@@ -1,0 +1,19 @@
+Big O Notation: Best, Average and Worst case scenarios for an alogorithm or program
+Big O Notation can be measured in two categories 1. Time Complexity 2. Space Complexity
+Mostly Big(O) is focused on finind out worst case scenarios so that our program does not behave unexpectedly or fails.
+Big(O) is basically to track if size of the Input increases then runtime will also increase - so, here the worst case is most no.of steps that could take for an input of size n.
+
+Time Complexity: How long? or no.of setps it takes for an alogorithm or program to run to solve the problem
+Space Complexity: How much memeory is used by the algorithm or program
+
+O(1) -- Constaant time:
+There are scenarios where the time it takes to run an algorithm or program is constant whatever may be the size of input n.
+Example: Bookmarks takes single step
+
+Some more examples or operartions that are constant:
+1. Math Operations
+2. Accessing an array via index
+3. accessing a hash via key
+4. pushing & popping an a stack
+5. Insertion & removal from a queue
+6. Returning a value from a function
