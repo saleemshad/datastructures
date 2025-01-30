@@ -1,0 +1,58 @@
+1. Complexity Analysis (Big-O Notation)
+Time Complexity (O(1), O(n), O(n²), O(log n), etc.)
+Space Complexity (Memory usage patterns)
+Best, Average, and Worst Case Scenarios
+Order of Growth & Asymptotic Notations
+Big-O (O) → Upper bound (worst case)
+Big-Theta (Θ) → Tight bound (average case)
+Big-Omega (Ω) → Lower bound (best case)
+Loop Analysis (Simple loops, nested loops, multi-variable loops)
+Recursive Function Analysis
+Amortized Analysis (e.g., Dynamic array resizing)
+2. Fundamental Data Structures
+Arrays (Static & Dynamic Arrays, Operations - Insert, Delete, Search)
+Linked Lists (Singly, Doubly, Circular)
+Stacks & Queues (Push, Pop, Enqueue, Dequeue)
+Hash Tables / Hash Maps (Collisions, Chaining, Open Addressing)
+Heaps & Priority Queues (Min Heap, Max Heap, Heapify, Applications)
+Trees
+Binary Trees
+Binary Search Trees (BST)
+AVL Trees & Red-Black Trees (Self-balancing)
+B-Trees (Used in Databases & File Systems)
+Graphs
+Adjacency List vs. Adjacency Matrix
+BFS & DFS Traversal
+Directed & Undirected Graphs
+Cycles & Acyclic Graphs
+Trie (Prefix Tree) (Used in Autocomplete & Dictionary Lookups)
+Disjoint Set (Union-Find Algorithm) (Used in Kruskal’s Algorithm, Connected Components)
+3. Core Algorithms & Techniques
+Sorting Algorithms
+Quick Sort, Merge Sort, Heap Sort, Counting Sort, Bucket Sort
+Searching Algorithms
+Binary Search (Iterative & Recursive), Linear Search
+Divide & Conquer
+Greedy Algorithms
+Dynamic Programming (DP) (Top-down Memoization & Bottom-up Tabulation)
+Backtracking (e.g., N-Queens, Sudoku Solver, Subset Sum)
+Graph Algorithms
+Shortest Path (Dijkstra’s, Bellman-Ford, Floyd-Warshall)
+Minimum Spanning Tree (Prim’s, Kruskal’s)
+Topological Sorting (Kahn’s Algorithm, DFS)
+Strongly Connected Components (Kosaraju’s Algorithm)
+Bit Manipulation (XOR, AND, OR, Left/Right Shift)
+4. Advanced Topics for Scalability & System Design
+Trie (Prefix Tree) & Suffix Arrays
+Fenwick Tree (Binary Indexed Tree) & Segment Trees
+Bloom Filters (Used in caching, spell checkers)
+Graph Theory - Advanced Topics
+Maximum Flow (Ford-Fulkerson Algorithm)
+Network Delay, Bipartite Graphs, Eulerian Paths
+Cache Mechanisms (LRU, LFU)
+5. Problem-Solving Techniques
+Pattern-based problem-solving (Sliding Window, Two Pointers, Recursion, DP)
+Breaking down problems into subproblems
+Understanding constraints & optimizing accordingly
+Practicing real-world DSA applications (Databases, Compilers, Network Routing, File Systems, Blockchain, etc.)
+If you master these fundamental concepts, you’ll have a solid foundation to solve any algorithmic problem efficiently.
