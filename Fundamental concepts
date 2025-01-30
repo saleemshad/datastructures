@@ -17,3 +17,45 @@ Some more examples or operartions that are constant:
 4. pushing & popping an a stack
 5. Insertion & removal from a queue
 6. Returning a value from a function
+
+Fundamental skills
+1. Logic building problems
+Basics on Analysis of Algorithms:
+1. Analysis of Algorithms : https://www.geeksforgeeks.org/analysis-of-algorithms/
+2. Order of Growth: https://www.geeksforgeeks.org/order-o-f-growth/?preview_id=1347138&preview=true
+3. Asymptomatic Analysis : https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/
+4. worst-average-and-best-case-analysis-of-algorithms : https://www.geeksforgeeks.org/worst-average-and-best-case-analysis-of-algorithms/
+
+Asymptotic Notations:
+Big-O Notation
+Theta - Θ Notation
+Big – Ω (Big- Omega) Notation
+Time Complexity
+Space Complexity
+Difference between Big Oh, Big Omega and Big Theta
+Examples of Big-O analysis
+Difference between big O notations and tilde
+Practice Questions on Time Complexity Analysis
+
+
+https://www.geeksforgeeks.org/how-to-analyse-loops-for-complexity-analysis-of-algorithms/
+Analysis Examples
+Analyzing Loops
+Constant Time Complexity O(1), Linear Time Complexity O(n), Quadratic Time Complexity O(nc), Logarithmic Time Complexity O(Log n), Logarithmic Time Complexity O(Log Log n), 
+Analyzing Recursive Functions
+Amortized Analysis
+
+
+
+Algorithms Cheat Sheet:
+Algorithm	Best Case	Average Case	Worst Case
+Selection Sort	O(n^2)	O(n^2)	O(n^2)
+Bubble Sort	O(n)	O(n^2)	O(n^2)
+Insertion Sort	O(n)	O(n^2)	O(n^2)
+Tree Sort	O(nlogn)	O(nlogn)	O(n^2)
+Radix Sort	O(dn)	O(dn)	O(dn)
+Merge Sort	O(nlogn)	O(nlogn)	O(nlogn)
+Heap Sort	O(nlogn)	O(nlogn)	O(nlogn)
+Quick Sort	O(nlogn)	O(nlogn)	O(n^2)
+Bucket Sort	O(n+k)	O(n+k)	O(n^2)
+Counting Sort	O(n+k)	O(n+k)	O(n+k)
